@@ -1,0 +1,1 @@
+import{_ as t,o,c as s,a as n}from"./index-ca072c22.js";const r={},c={width:"17",height:"28",viewBox:"0 0 17 28",fill:"none",xmlns:"http://www.w3.org/2000/svg"};function a(i,e){return o(),s("svg",c,e[0]||(e[0]=[n("path",{d:"M15 2L3 14L15 26",stroke:"#F8F6ED","stroke-width":"4"},null,-1)]))}const l=t(r,[["render",a]]);export{l as I};
